@@ -1,0 +1,6 @@
+{
+  "name": "Smart-LAND Designer",
+  "description": "Integrated design support web app for land equipment, featuring real-time weight/CG simulation, MIL-SPEC compliance review, and RAG-based spec Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
